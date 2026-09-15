@@ -1,0 +1,21 @@
+Student ID,Department,Semester,CGPA,Placement Status
+101,CSE,1,8.2,Placed
+102,ECE,2,7.8,Placed
+103,ME,3,7.4,Not Placed
+104,CSE,4,8.7,Placed
+105,EEE,5,6.9,Not Placed
+106,IT,6,8.1,Placed
+107,CSE,7,9.1,Placed
+108,ECE,8,7.6,Not Placed
+109,ME,1,8.4,Placed
+110,IT,2,7.9,Placed
+111,CSE,3,8.8,Placed
+112,EEE,4,7.2,Not Placed
+113,IT,5,8.0,Placed
+114,CSE,6,9.3,Placed
+115,ECE,7,7.5,Not Placed
+116,ME,8,7.1,Not Placed
+117,IT,1,8.5,Placed
+118,CSE,2,8.9,Placed
+119,EEE,3,6.8,Not Placed
+120,ME,4,7.7,Placed
